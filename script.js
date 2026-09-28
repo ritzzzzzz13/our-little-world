@@ -3,7 +3,7 @@
    PASSWORD GATE
    ========================================================= */
 
-const PASSWORD = "29.08.22";
+const PASSWORD = "290822";
 
 const passwordGate = document.getElementById("passwordGate");
 const passwordInput = document.getElementById("passwordInput");
